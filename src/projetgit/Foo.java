@@ -7,13 +7,8 @@ package projetgit;
 
 /**
  *
- * @author Zied 
+ * @author gc491284
  */
-public class ProjetGit {
-
-    
-    public static void main(String[] args) {
-        System.out.println("Bonjour !");
-    }
+public class Foo {
     
 }
